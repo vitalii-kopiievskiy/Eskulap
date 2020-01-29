@@ -1,0 +1,1 @@
+"use strict";$(".modal__item").click(function(){$("#modalWindow").modal("hide")});
